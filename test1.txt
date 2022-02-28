@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 3649-F42A
+
+ Directory of C:\Users\Dell\OneDrive\Desktop\MyProject
+
+28-02-2022  04:19 PM    <DIR>          .
+28-02-2022  04:19 PM    <DIR>          ..
+28-02-2022  04:19 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  95,646,310,400 bytes free
